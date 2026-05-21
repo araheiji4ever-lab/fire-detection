@@ -31,6 +31,8 @@ const status = document.getElementById('status');
 const initBtn = document.getElementById('btn-init');
 
 const alarm = document.getElementById('alarmSound');
+alarm.volume = 1.0;
+alarm.load();
 
 let session;
 let alarmPlaying = false;
