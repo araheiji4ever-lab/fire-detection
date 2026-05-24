@@ -2,8 +2,8 @@
 ### Kelompok 2 — XI RPL 3
 
 ## 👥 Anggota Kelompok
-- Desvita Adhayanti
 - Melinnda
+- Desvita Adhayanti
 - Tiara Rahadatul Aisy
 
 ---
