@@ -94,7 +94,9 @@ Model Fire Detection dievaluasi menggunakan beberapa metrik performa untuk mengu
 
 ## 📷 Tampilan Sistem
 
-![Detection Result](assets/detection-result.png)
+![Detection Result](assets/detection-result.jpeg)
+
+![Detection Result](assets/detection-result1.jpeg)
 
 # 🚀 Kesimpulan
 
